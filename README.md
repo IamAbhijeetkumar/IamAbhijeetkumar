@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IamAbhijeetkumar
+- 👋 Hi, I’m Abhijeet kumar
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning HTML,CSS,JS BOOTSTRAP,REACT JS
 - 💞️ I’m looking to collaborate on Web design
